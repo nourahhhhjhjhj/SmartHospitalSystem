@@ -16,4 +16,4 @@ ASP.NET Core MVC, Entity Framework Core, SQL Server, Bootstrap 5
 هذا المستودع يعرض جزءاً من المشروع (الـ Controllers).
 <img width="1916" height="933" alt="image" src="https://github.com/user-attachments/assets/8bd5f3ca-9a19-4f19-9cb4-9d620ffa2ae6" />
 
-لقطة شاشة 2026-10-10 151849.png
+لقطة شاشة 2026-10-10 151915.png
